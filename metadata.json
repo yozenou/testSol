@@ -1,0 +1,59 @@
+{
+  "name": "Rub petite bite #0",
+  "symbol": "YC",
+  "description": "Remember to replace this description",
+  "seller_fee_basis_points": 1000,
+  "image": "ipfs://QmdkwXV4eCKLNHR4w7FUSSdhHBCtxUsqHedqf1vEQV4Jak",
+  "animation_url": "https://ngs04c.digiteka.com/f55015b6efe2a29e6a5f13c774c6543f/c3BlZWQ9MTUwO3VzZXI9bmdzO2V4cGlyZT03ZmZmZmZmZg,,/sdg1/ff/d0/ffd0df72903f9a44e26b5eae84a0527d80e5a484.mp4",
+  "external_url": "https://www.arcade-crypto.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://QmdkwXV4eCKLNHR4w7FUSSdhHBCtxUsqHedqf1vEQV4Jak",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://ngs04c.digiteka.com/f55015b6efe2a29e6a5f13c774c6543f/c3BlZWQ9MTUwO3VzZXI9bmdzO2V4cGlyZT03ZmZmZmZmZg,,/sdg1/ff/d0/ffd0df72903f9a44e26b5eae84a0527d80e5a484.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "5ViioRh85EVWaBTxzZrfgWQxVWzcUn45qLbM8wzt93jU",
+        "share": 100
+      }
+    ]
+  }
+}
